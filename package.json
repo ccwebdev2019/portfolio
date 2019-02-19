@@ -6,7 +6,8 @@
     "react": "^16.8.1",
     "react-device-detect": "^1.6.2",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.4"
+    "react-scripts": "^2.1.5",
+    "react-scrollspy": "^3.3.5"
   },
   "scripts": {
     "start": "react-scripts start",

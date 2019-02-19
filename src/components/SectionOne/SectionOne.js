@@ -6,13 +6,13 @@ export const SectionOne = () => {
       <header className='sec1__header text-center'>
         <h2>About Me</h2>
       </header>
-      <p className='lead mb-5'>
-        Hey, thanks for visiting. About 3 years ago I took a deep dive and
-        started to learn to code. Started of coding front end of things and
-        eventually learned the backend of things too. Hey, thanks for visiting.
-        About 3 years ago I took a deep dive and started to learn to code.
-        Started of coding front end of things and eventually learned the backend
-        of things too.
+      <p className='lead mb-5 l-height'>
+        console.log('Hello World') Hey, thanks for visiting. So yes i am a Web
+        Developer, building web applications is a skill that i have acquired
+        through time. Translating a UI design into functional code, unit
+        testing, functional testing, working solo, working with a team, pair
+        programming, styling, updating existing templates are some skills that I
+        use when building web applications.
       </p>
       <div className='row'>
         <div className='col-sm-12 col-md-4'>

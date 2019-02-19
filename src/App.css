@@ -20,19 +20,15 @@ nav {
   background-image: linear-gradient(to right, #005bea, #00c6fb);
 }
 
-.nav-item {
+.nav-link {
   font-size: 1.25rem;
   color: #ebedee;
 }
 
-.is-current {
-  background-color: #fdfbfb;
+.nav-link.active {
+  background-color: #fdfbfb !important;
   border-radius: 2px;
-  color: #005bea;
-}
-
-.nav-link {
-  color: inherit;
+  color: #005bea !important;
 }
 
 .sec0 {

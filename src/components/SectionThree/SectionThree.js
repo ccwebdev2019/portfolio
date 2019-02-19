@@ -46,11 +46,11 @@ export const SectionThree = () => {
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
-          backgroundColor: "#2575fc",
+          backgroundColor: "#6a85b6",
           height: "230px"
         }}
       >
-        <p className='lead' style={{ color: "#fff", fontFamily: "Lobster" }}>
+        <p className='lead' style={{ color: "#ebedee", fontFamily: "Lobster" }}>
           Carlos Coello Full Stack Web Developer
         </p>
       </div>

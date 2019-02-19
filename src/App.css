@@ -221,18 +221,22 @@ nav {
     font-size: 90%;
   }
 
+  .sec_header {
+    margin-top: 2rem;
+  }
+
   h1 {
-    font-size: 2.75rem !important;
+    font-size: 2.5rem !important;
   }
 
   h2 {
-    font-size: 1.75rem !important;
+    font-size: 1.5rem !important;
   }
   .lead {
     font-size: 1.1rem;
   }
   .fa-laptop-code {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   .col-sm-12 {
     margin: 15px 0px;

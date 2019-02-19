@@ -121,7 +121,7 @@ nav {
   bottom: 0;
   background-color: #6a85b6;
   opacity: 0;
-  transition: opacity 250ms;
+  transition: opacity 500ms;
 }
 
 .sec2__card-div:hover::before {
@@ -145,15 +145,19 @@ nav {
   left: 0;
   right: 0;
   bottom: 0;
-  transition: opacity 500ms;
+  transition: opacity 450ms;
 }
 
 .sec2__card-div-overlay > h4 {
   font-family: "Lobster";
 }
 
-.sec2__card-div:hover .sec2__card-div-overlay {
+.sec2__card-div-overlay:hover {
   opacity: 1;
+}
+
+.sec2__card-div-overlay > div > a {
+  box-shadow: 0px 0px 2px 2px #6a85b6;
 }
 
 /* section three */
@@ -189,11 +193,11 @@ nav {
   }
 
   h1 {
-    font-size: 2rem !important;
+    font-size: 3rem !important;
   }
 
   h2 {
-    font-size: 1.5rem !important;
+    font-size: 2rem !important;
   }
   .lead {
     font-size: 1.1rem;

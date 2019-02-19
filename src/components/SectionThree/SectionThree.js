@@ -12,9 +12,11 @@ export const SectionThree = () => {
           contact me. I would like to learn more about the opportunities you are
           currently trying to fill. I can be reached either by phone{" "}
           <i className='fas fa-mobile-alt' />{" "}
-          <span className='text-primary'>512-999-0000</span> or you can send me
+          <span className='text-primary'>512-394-8490</span> or you can send me
           an email <i className='far fa-envelope-open' /> at{" "}
-          <span className='text-primary'>carlos@example.com</span>
+          <a href='mailto: ccwebdev2019@gmail.com' className='text-primary'>
+            ccwebdev2019@gmail.com
+          </a>
         </p>
         <div className='code__logo'>
           <span style={{ color: "#f0db4f" }}>

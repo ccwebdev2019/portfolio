@@ -25,11 +25,23 @@ export const STwoMobile = props => {
             <small>JWT, AuthGuards, Express, Schemas</small>
           </div>
           <div className='card-footer'>
-            <a href='#1' className='card-link text-success'>
-              View Github
+            <a
+              href='https://github.com/ccwebdev2019/angular-posts'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-primary font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view Github
             </a>
-            <a href='#2' className='card-link text-primary'>
-              View in Browser
+            <a
+              href='https://blog-aposts.herokuapp.com/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-success font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view in Browser
             </a>
           </div>
         </div>
@@ -45,11 +57,23 @@ export const STwoMobile = props => {
             <small>JWT, AuthGuards, Express, Schemas</small>
           </div>
           <div className='card-footer'>
-            <a href='#3' className='card-link text-success'>
-              View Github
+            <a
+              href='https://github.com/ccwebdev2019/react-login'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-primary font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view Github
             </a>
-            <a href='#4' className='card-link text-primary'>
-              View in Browser
+            <a
+              href='https://react-logincc.herokuapp.com/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-success font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view in Browser
             </a>
           </div>
         </div>
@@ -61,11 +85,23 @@ export const STwoMobile = props => {
             <small>Bcrypt, Vue Router Guards, Express, Schemas</small>
           </div>
           <div className='card-footer'>
-            <a href='#3' className='card-link text-success'>
-              View Github
+            <a
+              href='https://github.com/ccwebdev2019/vue-todos'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-primary font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view Github
             </a>
-            <a href='#4' className='card-link text-primary'>
-              View in Browser
+            <a
+              href='https://vue-jstodos.herokuapp.com/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-success font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view in Browser
             </a>
           </div>
         </div>
@@ -77,11 +113,23 @@ export const STwoMobile = props => {
             <small>DOM manipulation</small>
           </div>
           <div className='card-footer'>
-            <a href='#3' className='card-link text-success'>
-              View Github
+            <a
+              href='https://github.com/ccwebdev2019/dice-game'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-primary font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view Github
             </a>
-            <a href='#4' className='card-link text-primary'>
-              View in Browser
+            <a
+              href='https://ccwebdev2019.github.io/dice-game/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-success font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view in Browser
             </a>
           </div>
         </div>
@@ -93,11 +141,23 @@ export const STwoMobile = props => {
             <small>Module Patter, DOM maniputalion</small>
           </div>
           <div className='card-footer'>
-            <a href='#3' className='card-link text-success'>
-              View Github
+            <a
+              href='https://github.com/ccwebdev2019/budget'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-primary font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view Github
             </a>
-            <a href='#4' className='card-link text-primary'>
-              View in Browser
+            <a
+              href=' https://ccwebdev2019.github.io/budget/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-success font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view in Browser
             </a>
           </div>
         </div>
@@ -109,11 +169,23 @@ export const STwoMobile = props => {
             <small>HTML, CSS, Javascript, React Router Dom</small>
           </div>
           <div className='card-footer'>
-            <a href='#3' className='card-link text-success'>
-              View Github
+            <a
+              href='https://github.com/ccwebdev2019/react-posts'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-primary font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view Github
             </a>
-            <a href='#4' className='card-link text-primary'>
-              View in Browser
+            <a
+              href='https://react-postscc.herokuapp.com/'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-success font-weight-bold'
+              style={{ margin: ".5rem" }}
+            >
+              view in Browser
             </a>
           </div>
         </div>

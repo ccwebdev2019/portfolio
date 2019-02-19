@@ -24,18 +24,24 @@ export const STwoNonMobile = props => {
               JWT, AuthGuards, Express, Schemas
             </small>
             <div>
-              <button
-                className='btn btn-success font-weight-bold'
-                style={{ margin: ".5rem" }}
-              >
-                view Github
-              </button>
-              <button
+              <a
+                href='https://github.com/ccwebdev2019/angular-posts'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='btn btn-primary font-weight-bold'
                 style={{ margin: ".5rem" }}
               >
+                view Github
+              </a>
+              <a
+                href='https://blog-aposts.herokuapp.com/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='btn btn-light font-weight-bold'
+                style={{ margin: ".5rem" }}
+              >
                 view in Browser
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -48,18 +54,24 @@ export const STwoNonMobile = props => {
               JWT, AuthGuards, Express, Schemas
             </small>
             <div>
-              <button
-                className='btn btn-success font-weight-bold'
-                style={{ margin: ".5rem" }}
-              >
-                view Github
-              </button>
-              <button
+              <a
+                href='https://github.com/ccwebdev2019/react-login'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='btn btn-primary font-weight-bold'
                 style={{ margin: ".5rem" }}
               >
+                view Github
+              </a>
+              <a
+                href='https://react-logincc.herokuapp.com/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='btn btn-light font-weight-bold'
+                style={{ margin: ".5rem" }}
+              >
                 view in Browser
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -72,18 +84,24 @@ export const STwoNonMobile = props => {
               Bcrypt, Vue Router Guards, Express, Schemas
             </small>
             <div>
-              <button
-                className='btn btn-success font-weight-bold'
-                style={{ margin: ".5rem" }}
-              >
-                view Github
-              </button>
-              <button
+              <a
+                href='https://github.com/ccwebdev2019/vue-todos'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='btn btn-primary font-weight-bold'
                 style={{ margin: ".5rem" }}
               >
+                view Github
+              </a>
+              <a
+                href='https://vue-jstodos.herokuapp.com/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='btn btn-light font-weight-bold'
+                style={{ margin: ".5rem" }}
+              >
                 view in Browser
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -94,18 +112,24 @@ export const STwoNonMobile = props => {
             <small style={{ color: "#fff" }}>HMTL, CSS, Javascript</small>
             <small style={{ color: "#fff" }}>DOM manipulation</small>
             <div>
-              <button
-                className='btn btn-success font-weight-bold'
-                style={{ margin: ".5rem" }}
-              >
-                view Github
-              </button>
-              <button
+              <a
+                href='https://github.com/ccwebdev2019/dice-game'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='btn btn-primary font-weight-bold'
                 style={{ margin: ".5rem" }}
               >
+                view Github
+              </a>
+              <a
+                href='https://ccwebdev2019.github.io/dice-game/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='btn btn-light font-weight-bold'
+                style={{ margin: ".5rem" }}
+              >
                 view in Browser
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -118,18 +142,24 @@ export const STwoNonMobile = props => {
               Module Patter, DOM maniputalion
             </small>
             <div>
-              <button
-                className='btn btn-success font-weight-bold'
-                style={{ margin: ".5rem" }}
-              >
-                view Github
-              </button>
-              <button
+              <a
+                href='https://github.com/ccwebdev2019/budget'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='btn btn-primary font-weight-bold'
                 style={{ margin: ".5rem" }}
               >
+                view Github
+              </a>
+              <a
+                href=' https://ccwebdev2019.github.io/budget/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='btn btn-light font-weight-bold'
+                style={{ margin: ".5rem" }}
+              >
                 view in Browser
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -147,18 +177,24 @@ export const STwoNonMobile = props => {
               HTML, CSS, Javascript, React Router Dom
             </small>
             <div>
-              <button
-                className='btn btn-success font-weight-bold'
-                style={{ margin: ".5rem" }}
-              >
-                view Github
-              </button>
-              <button
+              <a
+                href='https://github.com/ccwebdev2019/react-posts'
+                target='_blank'
+                rel='noopener noreferrer'
                 className='btn btn-primary font-weight-bold'
                 style={{ margin: ".5rem" }}
               >
+                view Github
+              </a>
+              <a
+                href='https://react-postscc.herokuapp.com/'
+                target='_blank'
+                rel='noopener noreferrer'
+                className='btn btn-light font-weight-bold'
+                style={{ margin: ".5rem" }}
+              >
                 view in Browser
-              </button>
+              </a>
             </div>
           </div>
         </div>

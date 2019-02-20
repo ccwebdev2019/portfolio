@@ -11,8 +11,8 @@ export const SectionOne = () => {
         Developer, building web applications is a skill that i have acquired
         through time. Translating a UI design into functional code, unit
         testing, functional testing, working solo, working with a team, pair
-        programming, styling, updating existing templates are some skills that I
-        use when building web applications.
+        programming, styling, updating assignment tracker and updating existing
+        templates are some skills that I use when building web applications.
       </p>
       <div className='row'>
         <div className='col-sm-12 col-md-4'>
